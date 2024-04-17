@@ -18,7 +18,7 @@ python3 ZeroDayer.py -f Icpnames.txt # 使用文件
 python3 ZeroDayer.py -n "北京企业"# 使用单个名字
 ```
 
-### Config
+### config.txt
 这个文件一般就是从hunter上拉的ICP的集合
 ```xml
 [apache]
